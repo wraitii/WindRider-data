@@ -1,0 +1,10 @@
+{
+	"name": "Beltegueuse",
+	"position": [20, 0, 14],
+	"jump_zones": [
+		{
+			"name": "Sol",
+			"position": [50, 50]
+		}
+	]
+} 
