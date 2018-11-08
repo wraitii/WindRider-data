@@ -1,0 +1,12 @@
+{
+	"name": "Cycles",
+	"scene": "Cycles",
+	"stats": [
+		{ "empty_mass": 5 }
+	],
+	"components": [
+		{
+			"name": "Basic Engine"
+		}
+	]
+} 
