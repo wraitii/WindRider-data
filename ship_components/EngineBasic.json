@@ -2,8 +2,8 @@
 	"name": "Basic Engine",
 	"category": "Engine",
 	"stats": [
-		{ "max_speed": 50 },
-		{ "acceleration": 50 },
-		{ "turn_rate": 10 }
+		{ "max_speed": 70 },
+		{ "acceleration": 100 },
+		{ "turn_rate": 20 }
 	]
 }
