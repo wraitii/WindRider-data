@@ -1,0 +1,16 @@
+{
+	"name": "Blaster",
+	"category": "Weaponry",
+	"stats": [
+		{ "max_speed": 40 },
+		{ "acceleration": 80 },
+		{ "turn_rate": 25 }
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "Blaster Bolt",
+			"repeat_rate": 250
+		}
+	]
+}ty

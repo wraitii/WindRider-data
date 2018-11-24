@@ -1,0 +1,6 @@
+{
+	"name": "Blaster Bolt",
+	"type": "newtonian",
+	"shield_damage": 50,
+	"lifetime": 1
+}

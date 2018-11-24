@@ -7,8 +7,7 @@
 		{ "max_armour": 100 }
 	],
 	"components": [
-		{
-			"name": "Basic Engine"
-		}
+		{ "name": "Basic Engine" },
+		{ "name": "Blaster" }
 	]
 } 
