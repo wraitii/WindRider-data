@@ -2,7 +2,9 @@
 	"name": "Cycles",
 	"scene": "Cycles",
 	"stats": [
-		{ "empty_mass": 5 }
+		{ "empty_mass": 5 },
+		{ "max_shields": 100 },
+		{ "max_armour": 100 }
 	],
 	"components": [
 		{
