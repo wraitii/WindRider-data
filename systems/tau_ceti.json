@@ -1,6 +1,6 @@
 {
-	"name":"Kane",
-	"position":[-40.0,0,20],
+	"name":"Tau Ceti",
+	"position":[30,0,-30],
 	"jump_zones": [
 		{
 			"name": "Sol",

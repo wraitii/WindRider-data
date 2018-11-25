@@ -17,6 +17,14 @@
 		{
 			"name": "Beltegueuse",
 			"position": [0, -30]
+		},
+		{
+			"name": "Tau Ceti",
+			"position": [45, -30]
+		},
+		{
+			"name": "Kane",
+			"position": [-100, 20]
 		}
 	]
 } 
