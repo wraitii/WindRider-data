@@ -10,7 +10,8 @@
 		{
 			"type": "projectile",
 			"kind": "Blaster Bolt",
-			"repeat_rate": 250
+			"repeat_rate": 250,
+			"firing_energy": 3,
 		}
 	]
 }ty
