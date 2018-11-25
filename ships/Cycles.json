@@ -5,6 +5,7 @@
 		{ "empty_mass": 5 },
 		{ "max_shields": 100 },
 		{ "max_armour": 100 },
+		{ "max_hyperfuel": 300 },
 		{ "max_energy": 50 },
 		{ "energy_gen": 5 }
 	],

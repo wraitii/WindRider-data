@@ -4,6 +4,6 @@
 	"stats": [
 		{ "max_speed": 60 },
 		{ "acceleration": 250 },
-		{ "turn_rate": 25 }
+		{ "turn_rate": 40 }
 	]
 }

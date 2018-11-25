@@ -1,0 +1,10 @@
+{
+	"name":"Armada",
+	"position":[40,0,0],
+	"jump_zones": [
+		{
+			"name": "Beltegueuse",
+			"position": [-30, 20]
+		},
+	]
+}

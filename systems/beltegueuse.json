@@ -5,6 +5,10 @@
 		{
 			"name": "Sol",
 			"position": [50, 50]
-		}
+		},
+		{
+			"name": "Armada",
+			"position": [-30, 20]
+		},
 	]
 } 
