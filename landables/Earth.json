@@ -1,3 +1,9 @@
 {
-	"name": "Earth"
+	"ID": "Earth",
+	"society_presence": [
+		{
+			"ID": "Epsilon Corp.",
+			"presence": 100
+		}
+	]
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Cycles",
+	"ID": "Cycles",
 	"scene": "Cycles",
 	"stats": [
 		{ "empty_mass": 5 },
@@ -10,7 +10,7 @@
 		{ "energy_gen": 5 }
 	],
 	"components": [
-		{ "name": "Basic Engine" },
-		{ "name": "Blaster" }
+		{ "ID": "Basic Engine" },
+		{ "ID": "Blaster" }
 	]
 } 

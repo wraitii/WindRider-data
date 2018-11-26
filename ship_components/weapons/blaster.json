@@ -1,5 +1,5 @@
 {
-	"name": "Blaster",
+	"ID": "Blaster",
 	"category": "Weaponry",
 	"stats": [
 		{ "max_speed": 40 },

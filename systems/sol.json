@@ -1,29 +1,29 @@
 {
-	"name": "Sol",
+	"ID": "Sol",
 	"position": [0, 0, 0],
 	"stars": [
 		{
-			"name": "Sun",
+			"ID": "Sun",
 			"position": [300,50,0]
 		}
 	],
 	"landables": [
 		{
-			"name": "Earth",
+			"ID": "Earth",
 			"position": [50,5,0]
 		}
 	],
 	"jump_zones": [
 		{
-			"name": "Beltegueuse",
+			"ID": "Beltegueuse",
 			"position": [0, -30]
 		},
 		{
-			"name": "Tau Ceti",
+			"ID": "Tau Ceti",
 			"position": [45, -30]
 		},
 		{
-			"name": "Kane",
+			"ID": "Kane",
 			"position": [-100, 20]
 		}
 	]

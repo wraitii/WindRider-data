@@ -1,9 +1,9 @@
 {
-	"name":"Tau Ceti",
+	"ID":"Tau Ceti",
 	"position":[30,0,-30],
 	"jump_zones": [
 		{
-			"name": "Sol",
+			"ID": "Sol",
 			"position": [40,0]
 		}
 	]

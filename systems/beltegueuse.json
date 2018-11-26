@@ -1,13 +1,13 @@
 {
-	"name": "Beltegueuse",
+	"ID": "Beltegueuse",
 	"position": [20, 0, 14],
 	"jump_zones": [
 		{
-			"name": "Sol",
+			"ID": "Sol",
 			"position": [50, 50]
 		},
 		{
-			"name": "Armada",
+			"ID": "Armada",
 			"position": [-30, 20]
 		},
 	]
