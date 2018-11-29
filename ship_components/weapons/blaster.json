@@ -1,5 +1,5 @@
 {
-	"ID": "Blaster",
+	"name": "Blaster",
 	"category": "Weaponry",
 	"stats": [
 		{ "max_speed": 40 },
@@ -9,7 +9,7 @@
 	"weapons": [
 		{
 			"type": "projectile",
-			"kind": "Blaster Bolt",
+			"kind": "blaster_bolt",
 			"repeat_rate": 250,
 			"firing_energy": 3,
 		}

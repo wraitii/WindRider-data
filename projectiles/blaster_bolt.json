@@ -1,5 +1,4 @@
 {
-	"ID": "Blaster Bolt",
 	"type": "newtonian",
 	"lifetime": 1,
 	"shields_damage": 25,

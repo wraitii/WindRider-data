@@ -3,7 +3,7 @@
 	"position":[40,0,0],
 	"jump_zones": [
 		{
-			"ID": "Beltegueuse",
+			"jump_to": "Beltegueuse",
 			"position": [-30, 20]
 		},
 	]

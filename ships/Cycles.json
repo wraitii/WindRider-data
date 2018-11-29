@@ -10,7 +10,7 @@
 		{ "energy_gen": 5 }
 	],
 	"components": [
-		{ "ID": "Basic Engine" },
-		{ "ID": "Blaster" }
+		{ "ID": "EngineBasic" },
+		{ "ID": "weapons/blaster" }
 	]
 } 

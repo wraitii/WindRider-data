@@ -3,11 +3,11 @@
 	"position": [20, 0, 14],
 	"jump_zones": [
 		{
-			"ID": "Sol",
+			"jump_to": "Sol",
 			"position": [50, 50]
 		},
 		{
-			"ID": "Armada",
+			"jump_to": "Armada",
 			"position": [-30, 20]
 		},
 	]

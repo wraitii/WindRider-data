@@ -3,7 +3,7 @@
 	"position":[-40.0,0,20],
 	"jump_zones": [
 		{
-			"ID": "Sol",
+			"jump_to": "Sol",
 			"position": [40,0]
 		}
 	]

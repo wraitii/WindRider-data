@@ -8,22 +8,19 @@
 		}
 	],
 	"landables": [
-		{
-			"ID": "Earth",
-			"position": [50,5,0]
-		}
+		"Earth"
 	],
 	"jump_zones": [
 		{
-			"ID": "Beltegueuse",
+			"jump_to": "Beltegueuse",
 			"position": [0, -30]
 		},
 		{
-			"ID": "Tau Ceti",
+			"jump_to": "Tau Ceti",
 			"position": [45, -30]
 		},
 		{
-			"ID": "Kane",
+			"jump_to": "Kane",
 			"position": [-100, 20]
 		}
 	]
