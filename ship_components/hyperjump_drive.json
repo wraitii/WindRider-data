@@ -1,0 +1,8 @@
+{
+	"name": "Hyperjump Drive",
+	"category": "Hyperjump",
+	"creator": "Epsilon Corp.",
+	"stats": [
+		{ "hyperjump" : 1 }
+	]
+}

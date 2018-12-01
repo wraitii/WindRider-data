@@ -1,6 +1,7 @@
 {
 	"name": "Basic Engine",
 	"category": "Engine",
+	"creator": "Epsilon Corp.",
 	"stats": [
 		{ "max_speed": 60 },
 		{ "acceleration": 250 },
