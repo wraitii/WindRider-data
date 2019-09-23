@@ -2,6 +2,7 @@
 	"name": "Basic Engine",
 	"category": "Engine",
 	"creator": "Epsilon Corp.",
+	"buy_price": 2000,
 	"stats": [
 		{ "max_speed": 60 },
 		{ "acceleration": 250 },

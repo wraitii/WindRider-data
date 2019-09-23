@@ -4,7 +4,7 @@
 	"stars": [
 		{
 			"ID": "Sun",
-			"position": [300,50,0]
+			"position": [3000,500,0]
 		}
 	],
 	"landables": [
@@ -13,15 +13,15 @@
 	"jump_zones": [
 		{
 			"jump_to": "Beltegueuse",
-			"position": [0, -30]
+			"position": [0, -3000]
 		},
 		{
 			"jump_to": "Tau Ceti",
-			"position": [45, -30]
+			"position": [4500, -3000]
 		},
 		{
 			"jump_to": "Kane",
-			"position": [-100, 20]
+			"position": [-10000, 2000]
 		}
 	]
 } 

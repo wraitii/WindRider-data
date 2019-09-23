@@ -2,6 +2,7 @@
 	"name": "Blaster",
 	"category": "Weaponry",
 	"creator": "Epsilon Corp.",
+	"buy_price": 500,
 	"stats": [
 		{ "max_speed": 40 },
 		{ "acceleration": 80 },

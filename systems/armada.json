@@ -6,5 +6,8 @@
 			"jump_to": "Beltegueuse",
 			"position": [-30, 20]
 		},
+	],
+	"landables": [
+		"Armada_01"
 	]
 }

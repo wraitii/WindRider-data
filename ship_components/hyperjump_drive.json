@@ -2,6 +2,7 @@
 	"name": "Hyperjump Drive",
 	"category": "Hyperjump",
 	"creator": "Epsilon Corp.",
+	"buy_price": 5000,
 	"stats": [
 		{ "hyperjump" : 1 }
 	]

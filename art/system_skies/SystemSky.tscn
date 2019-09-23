@@ -1,7 +1,6 @@
 [gd_scene load_steps=3 format=2]
 
 [sub_resource type="Shader" id=1]
-
 resource_name = "SkyShader"
 code = "shader_type spatial;
 
@@ -16,7 +15,6 @@ void fragment() {
 }"
 
 [sub_resource type="ShaderMaterial" id=2]
-
 shader = SubResource( 1 )
 shader_param/HORIZON_HEIGHT = 50.0
 
@@ -29,4 +27,3 @@ invert_faces = true
 radial_segments = 11
 rings = 5
 material = SubResource( 2 )
-

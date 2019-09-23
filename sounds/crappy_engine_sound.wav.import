@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/crappy_engine_sound.wav-c19f03fb6ae0f9f52f455ecb4cb657ec.sample"
+
+[deps]
+
+source_file="res://data/sounds/crappy_engine_sound.wav"
+dest_files=[ "res://.import/crappy_engine_sound.wav-c19f03fb6ae0f9f52f455ecb4cb657ec.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
