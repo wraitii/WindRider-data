@@ -4,8 +4,8 @@
 	"creator": "Epsilon Corp.",
 	"buy_price": 500,
 	"stats": [
-		{ "max_speed": 40 },
-		{ "acceleration": 80 },
+		{ "max_speed": 20 },
+		{ "acceleration": 40 },
 		{ "turn_rate": 25 }
 	],
 	"weapons": [
@@ -14,6 +14,7 @@
 			"kind": "blaster_bolt",
 			"repeat_rate": 250,
 			"firing_energy": 3,
+			"firing_speed": 500
 		}
 	]
 }ty

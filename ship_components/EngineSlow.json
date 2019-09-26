@@ -1,0 +1,11 @@
+{
+	"name": "slow Engine",
+	"category": "Engine",
+	"creator": "Epsilon Corp.",
+	"buy_price": 1000,
+	"stats": [
+		{ "max_speed": 30 },
+		{ "acceleration": 20 },
+		{ "turn_rate": 10 }
+	]
+}
