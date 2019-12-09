@@ -6,22 +6,5 @@
 			"ID": "Sun",
 			"position": [3000,500,0]
 		}
-	],
-	"landables": [
-		"Earth"
-	],
-	"jump_zones": [
-		{
-			"jump_to": "Beltegueuse",
-			"position": [0, -3000]
-		},
-		{
-			"jump_to": "Tau Ceti",
-			"position": [4500, -3000]
-		},
-		{
-			"jump_to": "Kane",
-			"position": [-10000, 2000]
-		}
 	]
 } 

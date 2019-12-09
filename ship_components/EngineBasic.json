@@ -4,8 +4,8 @@
 	"creator": "Epsilon Corp.",
 	"buy_price": 2000,
 	"stats": [
-		{ "max_speed": 80 },
-		{ "acceleration": 400 },
-		{ "turn_rate": 50 }
+		{ "max_speed": 40 },
+		{ "acceleration": 100 },
+		{ "turn_rate": 200 }
 	]
 }

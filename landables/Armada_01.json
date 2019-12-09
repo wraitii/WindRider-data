@@ -1,5 +1,6 @@
 {
 	"ID": "Armada_01",
+	"graphics": "space_station_big_0",
 	"position": [50,5,0],
 	"society_presence": []
 }

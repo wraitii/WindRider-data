@@ -1,0 +1,19 @@
+{
+	"ID": "Kerguelen",
+	"position": [50, 0, 0],
+	"stars": [
+		{
+			"ID": "Sun",
+			"position": [30000, 5000, 0]
+		}
+	],
+	"landables": [
+		"Kerguelen_Outpost"
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Armada",
+			"position": [-3000, 2000]
+		}
+	]
+} 

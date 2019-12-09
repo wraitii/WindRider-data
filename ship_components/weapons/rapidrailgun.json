@@ -1,17 +1,17 @@
 {
-	"name": "Blaster",
+	"name": "Rapid Railgun",
 	"category": "Weaponry",
 	"creator": "Epsilon Corp.",
-	"buy_price": 500,
+	"buy_price": 2500,
 	"stats": [
 	],
 	"weapons": [
 		{
 			"type": "projectile",
 			"kind": "blaster_bolt",
-			"repeat_rate": 250,
-			"firing_energy": 3,
-			"firing_speed": 500
+			"repeat_rate": 50,
+			"firing_energy": 1,
+			"firing_speed": 1000
 		}
 	]
 }ty

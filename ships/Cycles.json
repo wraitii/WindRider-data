@@ -11,6 +11,6 @@
 	],
 	"components": [
 		{ "ID": "EngineBasic" },
-		{ "ID": "weapons/blaster" }
+		{ "ID": "weapons/rapidrailgun" }
 	]
 } 
