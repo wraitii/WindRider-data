@@ -1,0 +1,15 @@
+{
+	"ID": "Jupyter",
+	"system": "Sol",
+	"position": [-5300, 250, -2400],
+	"jump_zones": [
+		{
+			"jump_to": "Earth",
+			"position": [-100000, 20000]
+		},
+		{
+			"jump_to": "Kane",
+			"position": [-100000, 20000]
+		}
+	]
+} 

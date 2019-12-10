@@ -1,10 +1,15 @@
 {
 	"ID":"Armada",
+	"system": "Armada",
 	"position":[40,0,0],
 	"jump_zones": [
 		{
 			"jump_to": "Beltegueuse",
 			"position": [-30, 20]
+		},
+		{
+			"jump_to": "Kerguelen",
+			"position": [2400, 0]
 		},
 	],
 	"landables": [

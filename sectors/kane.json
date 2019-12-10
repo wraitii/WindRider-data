@@ -1,5 +1,6 @@
 {
 	"ID":"Kane",
+	"system": "Kane",
 	"position":[-40.0,0,20],
 	"jump_zones": [
 		{

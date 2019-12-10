@@ -1,0 +1,10 @@
+{
+	"ID": "Kerguelen",
+	"position": [70, 0, -10],
+	"stars": [
+		{
+			"ID": "Sun",
+			"position": [3000,500,0]
+		}
+	]
+} 

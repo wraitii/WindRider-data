@@ -1,5 +1,6 @@
 {
 	"ID":"Tau Ceti",
+	"system": "Tau Ceti",
 	"position":[30,0,-30],
 	"jump_zones": [
 		{
