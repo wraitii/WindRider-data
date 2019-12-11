@@ -1,13 +1,10 @@
 {
 	"ID":"Armada",
 	"position":[40,0,0],
-	"jump_zones": [
+	"stars": [
 		{
-			"jump_to": "Beltegueuse",
-			"position": [-30, 20]
-		},
-	],
-	"landables": [
-		"Armada_01"
+			"ID": "Sun",
+			"position": [0,0,0]
+		}
 	]
 }

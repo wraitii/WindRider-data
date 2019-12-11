@@ -5,7 +5,7 @@
 	"jump_zones": [
 		{
 			"jump_to": "Beltegueuse",
-			"position": [-30, 20]
+			"position": [-3000, 2000]
 		},
 		{
 			"jump_to": "Kerguelen",
