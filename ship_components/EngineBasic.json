@@ -3,6 +3,7 @@
 	"category": "Engine",
 	"creator": "Epsilon Corp.",
 	"buy_price": 2000,
+	"hold_space": 1,
 	"stats": [
 		{ "max_speed": 40 },
 		{ "acceleration": 100 },

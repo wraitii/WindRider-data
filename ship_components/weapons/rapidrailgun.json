@@ -9,9 +9,9 @@
 		{
 			"type": "projectile",
 			"kind": "blaster_bolt",
-			"repeat_rate": 50,
+			"repeat_rate": 150,
 			"firing_energy": 1,
-			"firing_speed": 1000
+			"firing_speed": 500
 		}
 	]
 }ty
