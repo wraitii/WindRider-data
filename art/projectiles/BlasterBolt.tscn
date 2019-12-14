@@ -7,8 +7,8 @@ flags_unshaded = true
 flags_do_not_receive_shadows = true
 albedo_color = Color( 0.964706, 0.458824, 0.0705882, 1 )
 
-[sub_resource type="SphereShape" id=2]
-radius = 0.2
+[sub_resource type="BoxShape" id=2]
+extents = Vector3( 0.2, 0.2, 2 )
 
 [node name="BlasterBolt" type="RigidBody"]
 input_ray_pickable = false
