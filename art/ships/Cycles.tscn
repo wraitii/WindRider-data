@@ -20,3 +20,6 @@ shape = SubResource( 1 )
 
 [node name="forward" type="Position3D" parent="Hardpoints"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.0670725, -1.25901 )
+
+[node name="Camera" type="Position3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.5, 5 )
