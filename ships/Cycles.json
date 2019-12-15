@@ -2,7 +2,7 @@
 	"ID": "Cycles",
 	"scene": "Cycles",
 	"stats": [
-		{ "empty_mass": 5 },
+		{ "mass": 15 },
 		{ "max_shields": 1000 },
 		{ "max_armour": 1000 },
 		{ "max_hyperfuel": 300 },
@@ -10,15 +10,20 @@
 		{ "energy_gen": 5 }
 	],
 	"components": [
-		{ "ID": "EngineBasic" },
-		{ "ID": "weapons/rapidrailgun" }
+		"EngineBasic",
+		"weapons/rapidrailgun"
 	],
 	"hold": [
 		[
-			[0,0,1,0],
+			[0,0,3,0],
 			 [0,1,1,0],
 			[0,1,1,1],
-			 [1,1,1,1]
+			 [1,2,2,1]
 		]
-	]
-} 
+	],
+	"hardpoints": {
+		"forward": {
+			"pos": [2, 0, 0]
+		}
+	}
+}

@@ -15,3 +15,8 @@ transform = Transform( -8.74228e-09, 0, 0.2, 0, 0.2, 0, -0.2, 0, -8.74228e-09, 0
 [node name="CollisionShape" type="CollisionShape" parent="Shapes"]
 transform = Transform( 1, 0, 0, 0, 0.2, 0, 0, 0, 1, 0, 0.0282911, 0 )
 shape = SubResource( 1 )
+
+[node name="Hardpoints" type="Node" parent="."]
+
+[node name="forward" type="Position3D" parent="Hardpoints"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.0670725, -1.25901 )

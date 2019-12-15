@@ -1,12 +1,14 @@
 {
+	"ID": "EngineBasic",
 	"name": "Basic Engine",
 	"category": "Engine",
 	"creator": "Epsilon Corp.",
 	"buy_price": 2000,
-	"hold_space": 1,
+	"max_per_hold": 1,
+	"hold_type": "ENGINE",
 	"stats": [
-		{ "max_speed": 40 },
-		{ "acceleration": 100 },
-		{ "turn_rate": 200 }
+		{ "max_speed": 50 },
+		{ "acceleration": 250 },
+		{ "turn_rate": 150 }
 	]
 }

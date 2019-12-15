@@ -1,8 +1,10 @@
 {
+	"ID": "weapons/blaster",
 	"name": "Blaster",
 	"category": "Weaponry",
 	"creator": "Epsilon Corp.",
 	"buy_price": 500,
+	"hold_type": "WEAPON",
 	"stats": [
 	],
 	"weapons": [

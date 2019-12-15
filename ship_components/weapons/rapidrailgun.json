@@ -1,8 +1,10 @@
 {
+	"ID": "weapons/rapidrailgun",
 	"name": "Rapid Railgun",
 	"category": "Weaponry",
 	"creator": "Epsilon Corp.",
 	"buy_price": 2500,
+	"hold_type": "WEAPON",
 	"stats": [
 	],
 	"weapons": [
