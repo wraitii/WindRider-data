@@ -21,4 +21,3 @@ transform = Transform( 2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 6.00249, -10.4199 )
 
 [node name="Exit" type="Position3D" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 2, 24.0376, 0, 45.5631 )
-[connection signal="body_entered" from="AutoDockArea" to="." method="_Body_Entered"]
