@@ -1,6 +1,7 @@
 {
 	"type": "newtonian",
 	"lifetime": 1,
-	"shields_damage": 25,
+	"scene": "BlasterBolt",
+	"shields_damage": 100,
 	"armour_damage": 25
 }

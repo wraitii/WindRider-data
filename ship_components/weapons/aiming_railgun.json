@@ -1,0 +1,20 @@
+{
+	"ID": "weapons/aiming_railgun",
+	"name": "Aiming Railgun",
+	"category": "Weaponry",
+	"creator": "Epsilon Corp.",
+	"buy_price": 5000,
+	"hold_type": "WEAPON",
+	"stats": [
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "blaster_bolt",
+			"repeat_rate": 250,
+			"firing_energy": 1,
+			"firing_speed": 500,
+			"turret_angle": [10, 10, 10]
+		}
+	]
+}ty

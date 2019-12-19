@@ -7,11 +7,13 @@
 		{ "max_armour": 5000 },
 		{ "max_hyperfuel": 500 },
 		{ "max_energy": 250 },
-		{ "energy_gen": 5 }
+		{ "energy_gen": 15 }
 	],
 	"components": [
 		"EngineBasic",
 		"EngineBasic",
+		"weapons/aiming_railgun",
+		"weapons/aiming_railgun",
 		"weapons/rapidrailgun",
 		"weapons/rapidrailgun"
 	],
