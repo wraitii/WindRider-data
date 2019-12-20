@@ -1,10 +1,18 @@
 {
 	"ID": "Kerguelen",
-	"position": [70, 0, -10],
+	"position": [
+		70,
+		0,
+		-10
+	],
 	"stars": [
 		{
 			"ID": "Sun",
-			"position": [0,0,0]
+			"position": [
+				0,
+				0,
+				0
+			]
 		}
 	]
-} 
+}

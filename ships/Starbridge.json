@@ -12,10 +12,10 @@
 	"components": [
 		"EngineBasic",
 		"EngineBasic",
-		"weapons/aiming_railgun",
-		"weapons/aiming_railgun",
 		"weapons/rapidrailgun",
-		"weapons/rapidrailgun"
+		"weapons/rapidrailgun",
+		"weapons/aiming_railgun",
+		"weapons/aiming_railgun"
 	],
 	"hold": [
 		[

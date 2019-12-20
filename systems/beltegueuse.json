@@ -1,14 +1,8 @@
 {
 	"ID": "Beltegueuse",
-	"position": [20, 0, 14],
-	"jump_zones": [
-		{
-			"jump_to": "Sol",
-			"position": [50, 50]
-		},
-		{
-			"jump_to": "Armada",
-			"position": [-30, 20]
-		},
+	"position": [
+		20,
+		-2,
+		14
 	]
-} 
+}

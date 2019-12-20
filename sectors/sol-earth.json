@@ -1,22 +1,35 @@
 {
 	"ID": "Earth",
 	"system": "Sol",
-	"position": [0, 100, 0],
+	"position": [
+		0,
+		10,
+		0
+	],
 	"landables": [
 		"Earth"
 	],
 	"jump_zones": [
 		{
 			"jump_to": "Jupyter",
-			"position": [23000, -13000]
+			"position": [
+				23000,
+				-13000
+			]
 		},
 		{
 			"jump_to": "Beltegueuse",
-			"position": [0, -3000]
+			"position": [
+				0,
+				-3000
+			]
 		},
 		{
 			"jump_to": "Tau Ceti",
-			"position": [45000, -30000]
+			"position": [
+				45000,
+				-30000
+			]
 		}
 	]
-} 
+}

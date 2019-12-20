@@ -1,0 +1,21 @@
+{
+	"ID": "Lux Uno",
+	"system": "Lux",
+	"position": [
+		3,
+		-20,
+		-50
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Kerguelen",
+			"position": [
+				2400,
+				0
+			]
+		}
+	],
+	"landables": [
+
+	]
+}

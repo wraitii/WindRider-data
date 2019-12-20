@@ -1,10 +1,18 @@
 {
-	"ID":"Armada",
-	"position":[40,0,0],
+	"ID": "Armada",
+	"position": [
+		40,
+		5,
+		0
+	],
 	"stars": [
 		{
 			"ID": "Sun",
-			"position": [0,0,0]
+			"position": [
+				0,
+				0,
+				0
+			]
 		}
 	]
 }

@@ -1,0 +1,21 @@
+{
+	"ID": "Trench of Tanga",
+	"system": "Tanga",
+	"position": [
+		-30,
+		30,
+		-14
+	],
+	"landables": [
+
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Malawi Uno",
+			"position": [
+				-3000,
+				2000
+			]
+		}
+	]
+}
