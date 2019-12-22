@@ -4,6 +4,8 @@
 	"category": "Engine",
 	"creator": "Epsilon Corp.",
 	"buy_price": 1000,
+	"max_per_hold": 1,
+	"hold_type": "ENGINE",
 	"stats": [
 		{ "max_speed": 30 },
 		{ "acceleration": 60 },

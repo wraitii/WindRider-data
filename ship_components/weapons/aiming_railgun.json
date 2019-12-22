@@ -4,6 +4,7 @@
 	"category": "Weaponry",
 	"creator": "Epsilon Corp.",
 	"buy_price": 5000,
+	"max_per_hold": 1,
 	"hold_type": "WEAPON",
 	"stats": [
 	],

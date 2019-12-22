@@ -11,10 +11,10 @@ func start():
 	sc.get_node('Title').text = "New Game"
 	sc.get_node('Text').text = "Welcome to WindRider. I need to write this text."
 	
-	sc.get_node('OK').connect("pressed", self, "_continue")
+	sc.connect("event_ok_pressed", self, "_continue")
 	Core.load_scene(sc)
 
-func _continue():
+func _continue(_a):
 	Core.unload_scene()
 
 	Core.gameState.player = Core.societyMgr.create_resource({
@@ -33,7 +33,7 @@ func _continue():
 	sc.get_node('Title').text = "Let's Go'"
 	sc.get_node('Text').text = "Use key arrows to move around. Use Z to thrust. Use Space to fire."
 	
-	sc.get_node('OK').connect("pressed", self, "_clean", [sc])
+	sc.connect("event_ok_pressed", self, "_clean", [sc])
 	sc.anchor_bottom = 0.8
 	sc.anchor_right = 0.8
 	sc.anchor_left = 0.2
@@ -41,6 +41,6 @@ func _continue():
 	
 	Core.gameState.currentScene.get_node('TopLayer').add_child(sc)
 
-func _clean(scene):
+func _clean(_a, scene):
 	NodeHelpers.queue_delete(scene)
 	_finish()
