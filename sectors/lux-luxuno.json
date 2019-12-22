@@ -11,7 +11,16 @@
 			"jump_to": "Kerguelen",
 			"position": [
 				2400,
-				0
+				0,
+				500
+			]
+		},
+		{
+			"jump_to": "Belphegora",
+			"position": [
+				0,
+				300,
+				2500
 			]
 		}
 	],

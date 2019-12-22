@@ -13,13 +13,15 @@
 		{
 			"jump_to": "Jupyter",
 			"position": [
-				23000,
-				-13000
+				2300,
+				0,
+				-1300
 			]
 		},
 		{
 			"jump_to": "Beltegueuse",
 			"position": [
+				0,
 				0,
 				-3000
 			]
@@ -27,8 +29,9 @@
 		{
 			"jump_to": "Tau Ceti",
 			"position": [
-				45000,
-				-30000
+				4500,
+				0,
+				-3000
 			]
 		}
 	]

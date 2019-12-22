@@ -1,0 +1,19 @@
+{
+	"ID": "Abysseus",
+	"system": "Pelagos 01",
+	"position": [
+		5,
+		0,
+		45
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Bathys",
+			"position": [
+				500,
+				0,
+				1500
+			]
+		}
+	]
+}

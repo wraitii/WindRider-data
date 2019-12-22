@@ -7,5 +7,12 @@
 			"ID": "Epsilon Corp.",
 			"presence": 10
 		}
-	]
+	],
+	"traits": {
+		"outpost": {
+			"type": "StationType",
+			"name": "Rugged Outpost",
+			"technologyLevel": 5
+		}
+	}
 }

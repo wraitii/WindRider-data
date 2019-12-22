@@ -14,6 +14,7 @@
 			"jump_to": "Kerguelen",
 			"position": [
 				-3000,
+				0,
 				2000
 			]
 		},
@@ -21,6 +22,7 @@
 			"jump_to": "Cross",
 			"position": [
 				2000,
+				0,
 				2000
 			]
 		},
@@ -28,6 +30,7 @@
 			"jump_to": "Trench of Tanga",
 			"position": [
 				2000,
+				0,
 				-2000
 			]
 		}

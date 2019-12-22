@@ -1,0 +1,27 @@
+{
+	"ID": "Mesos",
+	"system": "Pelagos 01",
+	"position": [
+		3,
+		2,
+		-45
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Photos",
+			"position": [
+				24,
+				5,
+				455
+			]
+		},
+		{
+			"jump_to": "Bathys",
+			"position": [
+				53,
+				-73,
+				-2500
+			]
+		}
+	]
+}

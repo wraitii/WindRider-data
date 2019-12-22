@@ -8,7 +8,7 @@
 	"jump_zones": [
 		{
 			"jump_to": "Armada",
-			"position": [-3000, 2000]
+			"position": [-3000, 0, 2000]
 		}
 	]
 } 

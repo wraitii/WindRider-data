@@ -3,7 +3,7 @@
 [ext_resource path="res://data/art/fonts/Exo2-Regular.tres" type="DynamicFontData" id=1]
 [ext_resource path="res://data/art/fonts/Potra.tres" type="DynamicFontData" id=2]
 
-[sub_resource type="StyleBoxFlat" id=8]
+[sub_resource type="StyleBoxFlat" id=1]
 content_margin_left = 10.0
 content_margin_right = 10.0
 content_margin_top = 5.0
@@ -15,18 +15,18 @@ size = 150
 use_filter = true
 font_data = ExtResource( 2 )
 
-[sub_resource type="DynamicFont" id=5]
+[sub_resource type="DynamicFont" id=3]
 size = 80
 use_filter = true
 font_data = ExtResource( 2 )
 
-[sub_resource type="StyleBoxFlat" id=9]
+[sub_resource type="StyleBoxFlat" id=4]
 bg_color = Color( 0.0313726, 0.0313726, 0.141176, 1 )
 
-[sub_resource type="StyleBoxFlat" id=7]
+[sub_resource type="StyleBoxFlat" id=5]
 bg_color = Color( 0.0196078, 0.0196078, 0.113725, 1 )
 
-[sub_resource type="StyleBoxFlat" id=10]
+[sub_resource type="StyleBoxFlat" id=6]
 content_margin_left = 20.0
 content_margin_right = 20.0
 content_margin_top = 10.0
@@ -34,7 +34,7 @@ content_margin_bottom = 10.0
 bg_color = Color( 0.109804, 0.176471, 0.32549, 1 )
 corner_detail = 1
 
-[sub_resource type="StyleBoxFlat" id=11]
+[sub_resource type="StyleBoxFlat" id=7]
 content_margin_left = 20.0
 content_margin_right = 20.0
 content_margin_top = 10.0
@@ -42,7 +42,7 @@ content_margin_bottom = 10.0
 bg_color = Color( 0.109804, 0.176471, 0.32549, 1 )
 corner_detail = 1
 
-[sub_resource type="StyleBoxFlat" id=12]
+[sub_resource type="StyleBoxFlat" id=8]
 content_margin_left = 20.0
 content_margin_right = 20.0
 content_margin_top = 10.0
@@ -50,11 +50,11 @@ content_margin_bottom = 10.0
 bg_color = Color( 0.215686, 0.286275, 0.443137, 1 )
 corner_detail = 1
 
-[sub_resource type="DynamicFont" id=4]
+[sub_resource type="DynamicFont" id=9]
 font_data = ExtResource( 1 )
 
 [resource]
-default_font = SubResource( 4 )
+default_font = SubResource( 9 )
 Button/colors/font_color = Color( 1, 0.996078, 0.996078, 1 )
 Button/colors/font_color_disabled = Color( 0.713726, 0.713726, 0.713726, 1 )
 Button/colors/font_color_hover = Color( 0.937255, 0.996078, 1, 1 )
@@ -64,7 +64,7 @@ Button/fonts/font = null
 Button/styles/disabled = null
 Button/styles/focus = null
 Button/styles/hover = null
-Button/styles/normal = SubResource( 8 )
+Button/styles/normal = SubResource( 1 )
 Button/styles/pressed = null
 CheckBox/colors/font_color = Color( 0, 0, 0, 1 )
 CheckBox/colors/font_color_disabled = Color( 0, 0, 0, 1 )
@@ -134,7 +134,7 @@ FileDialog/icons/parent_folder = null
 FileDialog/icons/reload = null
 FileDialog/icons/toggle_hidden = null
 "Fonts/fonts/Title H1" = SubResource( 2 )
-"Fonts/fonts/Title H2" = SubResource( 5 )
+"Fonts/fonts/Title H2" = SubResource( 3 )
 Fonts/fonts/large = null
 Fonts/fonts/normal = null
 GraphEdit/colors/activity = Color( 0, 0, 0, 1 )
@@ -263,9 +263,9 @@ OptionButton/styles/focus = null
 OptionButton/styles/hover = null
 OptionButton/styles/normal = null
 OptionButton/styles/pressed = null
-Panel/styles/NotQuiteBG = SubResource( 9 )
-Panel/styles/panel = SubResource( 7 )
-PanelContainer/styles/panel = SubResource( 7 )
+Panel/styles/NotQuiteBG = SubResource( 4 )
+Panel/styles/panel = SubResource( 5 )
+PanelContainer/styles/panel = SubResource( 5 )
 PopupDialog/styles/panel = null
 PopupMenu/colors/font_color = Color( 0, 0, 0, 1 )
 PopupMenu/colors/font_color_accel = Color( 0, 0, 0, 1 )
@@ -325,10 +325,10 @@ TabContainer/icons/increment = null
 TabContainer/icons/increment_highlight = null
 TabContainer/icons/menu = null
 TabContainer/icons/menu_highlight = null
-TabContainer/styles/panel = SubResource( 9 )
-TabContainer/styles/tab_bg = SubResource( 10 )
-TabContainer/styles/tab_disabled = SubResource( 11 )
-TabContainer/styles/tab_fg = SubResource( 12 )
+TabContainer/styles/panel = SubResource( 4 )
+TabContainer/styles/tab_bg = SubResource( 6 )
+TabContainer/styles/tab_disabled = SubResource( 7 )
+TabContainer/styles/tab_fg = SubResource( 8 )
 Tabs/colors/font_color_bg = Color( 1, 1, 1, 1 )
 Tabs/colors/font_color_disabled = Color( 0.768627, 0.768627, 0.768627, 1 )
 Tabs/colors/font_color_fg = Color( 1, 1, 1, 1 )

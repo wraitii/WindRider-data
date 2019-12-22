@@ -1,0 +1,27 @@
+{
+	"ID": "Photos",
+	"system": "Pelagos 01",
+	"position": [
+		24,
+		5,
+		-90
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Beltegueuse",
+			"position": [
+				-356,
+				34,
+				3000
+			]
+		},
+		{
+			"jump_to": "Mesos",
+			"position": [
+				53,
+				-73,
+				-2500
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"ID": "Belphegora",
+	"system": "Belphegore",
+	"position": [
+		0,
+		0,
+		0
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Lux Uno",
+			"position": [
+				-2000,
+				0,
+				0
+			]
+		},
+		{
+			"jump_to": "Tau Ceti",
+			"position": [
+				1500,
+				150,
+				500
+			]
+		}
+	]
+}
