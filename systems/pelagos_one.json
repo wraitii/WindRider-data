@@ -4,5 +4,15 @@
 		25,
 		4,
 		45
+	],
+	"stars": [
+		{
+			"ID": "Pelagos",
+			"position": [0, 0, -130],
+			"energy": 5,
+			"star_color": [0.66, 0.87, 1],
+			"light_color": [0.8, 0.9, 1.0],
+			"scale": 50
+		}
 	]
 }

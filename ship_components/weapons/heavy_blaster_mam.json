@@ -1,0 +1,24 @@
+{
+	"ID": "weapons/heavy_blaster_mam",
+	"name": "M&M Heavy Blaster",
+	"category": "Weaponry",
+	"creator": "Mark and Mark",
+	"technology_level": 15,
+	"creator_presence": 50,
+	"description": "Mark and Mark's heavy blaster is a rare, strong weapon. Intended mostly for larger ships, it fires hugely damaging bursts of plasma. There is no fixed variant, simply because there's no real market for it.",
+	"buy_price": 50000,
+	"max_per_hold": 1,
+	"hold_type": "WEAPON",
+	"stats": [
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "mam_heavy_blaster",
+			"repeat_rate": 500,
+			"firing_energy": 25,
+			"firing_speed": 700,
+			"turret_angle": [10, 10, 10]
+		}
+	]
+}

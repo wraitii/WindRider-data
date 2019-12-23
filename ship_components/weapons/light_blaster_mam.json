@@ -1,0 +1,23 @@
+{
+	"ID": "weapons/light_blaster_mam",
+	"name": "M&M Light Blaster",
+	"category": "Weaponry",
+	"creator": "Mark and Mark",
+	"technology_level": 1,
+	"creator_presence": 1,
+	"description": "Mark and Mark is one of the most common outfitters outlets of MK Space. They make serviceable weaponry, though nothing really elevates their creation to the next level.\n This blaster is a very straightforward mechanism, and even the worst mechanic could repair one.",
+	"buy_price": 2500,
+	"max_per_hold": 1,
+	"hold_type": "WEAPON",
+	"stats": [
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "mam_light_blaster",
+			"repeat_rate": 500,
+			"firing_energy": 5,
+			"firing_speed": 500
+		}
+	]
+}ty

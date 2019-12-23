@@ -1,0 +1,7 @@
+{
+	"type": "newtonian",
+	"lifetime": 5,
+	"scene": "mam_heavy_blaster",
+	"shields_damage": 400,
+	"armour_damage": 100
+}

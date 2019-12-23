@@ -7,9 +7,12 @@
 		5
 	],
 	"activity": 1,
+	"landables": [
+		"Bathys_Station"
+	],
 	"jump_zones": [
 		{
-			"jump_to": "Mesos",
+			"jump_to": "Abysseus",
 			"position": [
 				53,
 				-73,
@@ -17,7 +20,7 @@
 			]
 		},
 		{
-			"jump_to": "Abysseus",
+			"jump_to": "Mesos",
 			"position": [
 				53,
 				-73,

@@ -1,0 +1,23 @@
+{
+	"ID": "weapons/medium_blaster_mam",
+	"name": "M&M Medium Blaster",
+	"category": "Weaponry",
+	"creator": "Mark and Mark",
+	"technology_level": 5,
+	"creator_presence": 20,
+	"description": "This medium blaster from Mark and Mark is among the more serviceable weapons in the known galaxy. It won't fail, it won't crash, it will pack a punch. There are three variants of it, a fixed version which is rather rare, an aiming version that you can find on most any ship these days, and the fully turreted version for traders who care.",
+	"buy_price": 5000,
+	"max_per_hold": 1,
+	"hold_type": "WEAPON",
+	"stats": [
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "mam_medium_blaster",
+			"repeat_rate": 500,
+			"firing_energy": 5,
+			"firing_speed": 500
+		}
+	]
+}

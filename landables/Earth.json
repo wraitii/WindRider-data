@@ -1,11 +1,5 @@
 {
 	"ID": "Earth",
 	"position": [50,5,0],
-	"graphics": "space_station_big_0",
-	"society_presence": [
-		{
-			"ID": "Epsilon Corp.",
-			"presence": 100
-		}
-	]
+	"graphics": "space_station_big_0"
 }

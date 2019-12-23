@@ -1,0 +1,18 @@
+{
+	"ID": "Bathys_Station",
+	"position": [500, -50, 24],
+	"graphics": "small_lookout_0",
+	"traits": {
+		"outpost": {
+			"type": "StationType",
+			"name": "Rugged Outpost",
+			"technology_level": 50
+		},
+		"mandm_presence": {
+			"type": "SocietyPresence",
+			"name": "Small Mark & Mark outfitter",
+			"society": "Mark and Mark",
+			"presence": 75
+		}
+	}
+}

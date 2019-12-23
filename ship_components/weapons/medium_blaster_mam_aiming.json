@@ -1,0 +1,24 @@
+{
+	"ID": "weapons/medium_blaster_mam_aiming",
+	"name": "M&M Aiming Medium Blaster",
+	"category": "Weaponry",
+	"creator": "Mark and Mark",
+	"technology_level": 7,
+	"creator_presence": 25,
+	"description": "The aiming variant of the M&M Medium Blaster is the most common weapon in the galaxy... Or so says their marketing team. For sure, it works well. With 6 degrees of rotation in every axis, it makes it much easier to hit the target, and what's not to love about that?\nObviously the price is ridiculously higher, and there's a higher energy spending, but when it can mean the difference between life and death, does it truly matter?",
+	"buy_price": 25000,
+	"max_per_hold": 1,
+	"hold_type": "WEAPON",
+	"stats": [
+	],
+	"weapons": [
+		{
+			"type": "projectile",
+			"kind": "medium_blaster_mam",
+			"repeat_rate": 500,
+			"firing_energy": 10,
+			"firing_speed": 500,
+			"turret_angle": [6, 6, 6]
+		}
+	]
+}
