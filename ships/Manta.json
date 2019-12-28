@@ -7,7 +7,8 @@
 		{ "max_armour": 2000 },
 		{ "max_hyperfuel": 300 },
 		{ "max_energy": 50 },
-		{ "energy_gen": 5 }
+		{ "energy_gen": 5 },
+		{ "max_speed": 40 }
 	],
 	"components": [
 		"EngineBasic"

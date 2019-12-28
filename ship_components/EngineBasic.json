@@ -7,8 +7,8 @@
 	"max_per_hold": 1,
 	"hold_type": "ENGINE",
 	"stats": [
-		{ "max_speed": 50 },
-		{ "acceleration": 250 },
+		{ "max_speed": 10 },
+		{ "acceleration": 350 },
 		{ "turn_rate": 150 }
 	]
 }

@@ -1,0 +1,17 @@
+{
+	"ID": "TEA Thrusters 32",
+	"name": "TEA Thrusters #32",
+	"category": "Engine",
+	"creator": "TEA",
+	"technology_level": 8,
+	"creator_presence": 40,
+	"description": "A step above the #23, the #32 by TEA gives you a real thrusting boost. Of course, the pricing upgrade is rather steep.",
+	"buy_price": 100000,
+	"max_per_hold": 1,
+	"hold_type": "ENGINE",
+	"stats": [
+		{ "max_speed": 20 },
+		{ "acceleration": 500 },
+		{ "turn_rate": 200 }
+	]
+}

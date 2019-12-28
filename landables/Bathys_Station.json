@@ -6,13 +6,13 @@
 		"outpost": {
 			"type": "StationType",
 			"name": "Rugged Outpost",
-			"technology_level": 50
+			"technology_level": 5
 		},
 		"mandm_presence": {
 			"type": "SocietyPresence",
 			"name": "Small Mark & Mark outfitter",
 			"society": "Mark and Mark",
-			"presence": 75
+			"presence": 20
 		}
 	}
 }
