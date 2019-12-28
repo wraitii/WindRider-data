@@ -1,0 +1,18 @@
+{
+	"ID": "Mesos-Deep",
+	"position": [500, -50, 24],
+	"graphics": "small_lookout_0",
+	"traits": {
+		"outpost": {
+			"type": "StationType",
+			"name": "Deep Blue Outpost",
+			"technology_level": 7
+		},
+		"mandm_presence": {
+			"type": "SocietyPresence",
+			"name": "Small Mark & Mark outfitter",
+			"society": "Mark and Mark",
+			"presence": 40
+		}
+	}
+}

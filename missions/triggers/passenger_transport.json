@@ -1,0 +1,10 @@
+{
+	"giver": [
+		{ "trait": { "type": "StationType" } }
+	],
+	"receiver_to_show": {
+	},
+	"receiver_to_accept": {
+	},
+	"type": "PassengerTransport"
+}

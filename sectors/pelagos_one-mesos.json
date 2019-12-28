@@ -6,6 +6,9 @@
 		2,
 		-45
 	],
+	"landables": [
+		"Mesos-Deep"
+	],
 	"jump_zones": [
 		{
 			"jump_to": "Photos",
