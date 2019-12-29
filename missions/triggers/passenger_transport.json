@@ -6,5 +6,6 @@
 	},
 	"receiver_to_accept": {
 	},
-	"type": "PassengerTransport"
+	"type": "PassengerTransport",
+	"proba": 200
 }

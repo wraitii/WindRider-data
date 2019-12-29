@@ -1,0 +1,19 @@
+{
+	"ID": "Sons of Tichel",
+	"system": "Tichel",
+	"position": [
+		-40,
+		0,
+		20
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Kane",
+			"position": [
+				250,
+				43,
+				2000
+			]
+		}
+	]
+}

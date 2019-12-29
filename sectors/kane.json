@@ -1,11 +1,27 @@
 {
-	"ID":"Kane",
+	"ID": "Kane",
 	"system": "Kane",
-	"position":[-40.0,0,20],
+	"position": [
+		-40,
+		0,
+		20
+	],
 	"jump_zones": [
 		{
-			"jump_to": "Earth",
-			"position": [250,43,2000]
+			"jump_to": "Jupyter",
+			"position": [
+				250,
+				43,
+				2000
+			]
+		},
+		{
+			"jump_to": "Sons of Tichel",
+			"position": [
+				-2000,
+				43,
+				1000
+			]
 		}
 	]
 }

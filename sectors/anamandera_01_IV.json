@@ -1,0 +1,27 @@
+{
+	"ID": "Anamandere IV",
+	"system": "Anamandere 01",
+	"position": [
+		40,
+		2,
+		-24
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Fera",
+			"position": [
+				1000,
+				0,
+				2000
+			]
+		},
+		{
+			"jump_to": "UNS-1452-01",
+			"position": [
+				2000,
+				0,
+				-2000
+			]
+		}
+	]
+}

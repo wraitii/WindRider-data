@@ -6,7 +6,8 @@
 		"outpost": {
 			"type": "StationType",
 			"name": "Rugged Outpost",
-			"technology_level": 5
+			"technology_level": 5,
+			"mission_cap": 3
 		},
 		"mandm_presence": {
 			"type": "SocietyPresence",

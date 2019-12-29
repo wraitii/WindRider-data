@@ -1,0 +1,27 @@
+{
+	"ID": "UNS-1452-01",
+	"system": "UNS-1452",
+	"position": [
+		0,
+		0,
+		0
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Anamandere IV",
+			"position": [
+				-2000,
+				10,
+				2000
+			]
+		},
+		{
+			"jump_to": "Belphegora",
+			"position": [
+				2000,
+				10,
+				2000
+			]
+		}
+	]
+}

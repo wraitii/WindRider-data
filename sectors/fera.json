@@ -1,0 +1,43 @@
+{
+	"ID": "Fera",
+	"system": "Fera",
+	"position": [
+		40,
+		2,
+		-24
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Earth",
+			"position": [
+				-2000,
+				0,
+				2000
+			]
+		},
+		{
+			"jump_to": "Antares III",
+			"position": [
+				0,
+				0,
+				2000
+			]
+		},
+		{
+			"jump_to": "Quadricon",
+			"position": [
+				0,
+				0,
+				-2000
+			]
+		},
+		{
+			"jump_to": "Anamandere IV",
+			"position": [
+				500,
+				150,
+				-3000
+			]
+		}
+	]
+}

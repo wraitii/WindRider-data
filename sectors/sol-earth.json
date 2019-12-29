@@ -19,11 +19,19 @@
 			]
 		},
 		{
+			"jump_to": "Fera",
+			"position": [
+				2300,
+				0,
+				-1300
+			]
+		},
+		{
 			"jump_to": "Beltegueuse",
 			"position": [
+				1500,
 				0,
-				0,
-				-3000
+				15000
 			]
 		},
 		{

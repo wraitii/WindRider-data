@@ -1,7 +1,7 @@
 {
 	"ID": "Jupyter",
 	"system": "Sol",
-	"position": [-5300, 250, -2400],
+	"position": [-53, 2, -24],
 	"jump_zones": [
 		{
 			"jump_to": "Earth",

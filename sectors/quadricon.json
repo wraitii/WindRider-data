@@ -1,0 +1,19 @@
+{
+	"ID": "Quadricon",
+	"system": "Quadricon",
+	"position": [
+		0,
+		0,
+		-10
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Fera",
+			"position": [
+				-2000,
+				0,
+				2000
+			]
+		}
+	]
+}

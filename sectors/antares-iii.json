@@ -1,0 +1,19 @@
+{
+	"ID": "Antares III",
+	"system": "Antares",
+	"position": [
+		40,
+		2,
+		-24
+	],
+	"jump_zones": [
+		{
+			"jump_to": "Fera",
+			"position": [
+				-2000,
+				0,
+				2000
+			]
+		}
+	]
+}
