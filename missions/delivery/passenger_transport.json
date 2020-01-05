@@ -1,0 +1,9 @@
+{
+	"random": [
+		{
+			"title": "Passenger transport to {to_id}",
+			"description": "Some civilians would like transportation to {to_id}. Reward is {reward} credits.",
+			"reward": 5000
+		}
+	]
+}

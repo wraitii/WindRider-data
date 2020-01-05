@@ -6,7 +6,8 @@
 		"outpost": {
 			"type": "StationType",
 			"name": "Deep Blue Outpost",
-			"technology_level": 7
+			"technology_level": 7,
+			"mission_cap": 8
 		},
 		"mandm_presence": {
 			"type": "SocietyPresence",

@@ -1,0 +1,9 @@
+{
+	"random": [
+		{
+			"title": "Delivery to {to_id}",
+			"description": "{provider} needs a shipment of goods delivered to {to_id}. Reward is {reward} credits.",
+			"reward": 5000
+		}
+	]
+}

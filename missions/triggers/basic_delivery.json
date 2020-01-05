@@ -6,9 +6,9 @@
 	},
 	"receiver_to_accept": {
 	},
-	"type": "PassengerTransport",
-	"proba": 180,
+	"type": "CommonDelivery",
+	"proba": 150,
 	"data": {
-		"datafile": "delivery/passenger_transport"
+		"datafile": "delivery/basic_delivery"		
 	}
 }
